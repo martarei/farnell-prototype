@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" width="320" height="120">
+  <!-- multicomp in black bold -->
+  <text x="12" y="68" font-family="Arial Black, Arial, sans-serif" font-size="46" font-weight="900" fill="#1a1a1a" letter-spacing="-1">multicomp</text>
+  <!-- PRO in dark grey, smaller, superscript-style -->
+  <text x="232" y="58" font-family="Arial Black, Arial, sans-serif" font-size="26" font-weight="900" fill="#333333" letter-spacing="1">PRO</text>
+  <!-- Green underline under PRO -->
+  <rect x="232" y="63" width="74" height="4" fill="#4CAF50"/>
+  <!-- The Engineer's Choice tagline -->
+  <text x="12" y="90" font-family="Arial, sans-serif" font-size="16" font-weight="400" fill="#444" font-style="italic">The Engineer's Choice</text>
+</svg>

@@ -1,0 +1,21 @@
+/* Apercu Avnet Font Family */
+@font-face {
+  font-family: 'Apercu Avnet';
+  src: local('Arial'), local('Helvetica Neue'), local('Helvetica');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Apercu Avnet:Bold';
+  src: local('Arial Bold'), local('Helvetica Neue Bold'), local('Helvetica Bold');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Apercu Avnet:Regular';
+  src: local('Arial'), local('Helvetica Neue'), local('Helvetica');
+  font-weight: 400;
+  font-style: normal;
+}

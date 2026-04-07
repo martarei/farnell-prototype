@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 696" width="760" height="696">
+  <rect width="760" height="696" fill="#f8f8f8"/>
+
+  <!-- USB Type A connector (left) -->
+  <g transform="translate(60, 298)">
+    <!-- Housing -->
+    <rect x="0" y="0" width="80" height="52" rx="4" fill="#c0c0c0" stroke="#888" stroke-width="2"/>
+    <rect x="4" y="4" width="72" height="44" rx="2" fill="#1a1a1a"/>
+    <!-- Port opening -->
+    <rect x="6" y="8" width="68" height="36" rx="2" fill="#3a3a3a"/>
+    <!-- Inner connector tab -->
+    <rect x="10" y="14" width="60" height="16" rx="1" fill="#c0c0c0" opacity="0.6"/>
+    <!-- Pins -->
+    <line x1="16" y1="14" x2="16" y2="30" stroke="#gold" stroke-width="2"/>
+    <line x1="30" y1="14" x2="30" y2="30" stroke="#gold" stroke-width="2"/>
+    <line x1="50" y1="14" x2="50" y2="30" stroke="#gold" stroke-width="2"/>
+    <line x1="64" y1="14" x2="64" y2="30" stroke="#gold" stroke-width="2"/>
+    <!-- Cable exit -->
+    <rect x="80" y="19" width="20" height="14" fill="#1a1a1a"/>
+  </g>
+
+  <!-- USB Type A label -->
+  <text x="90" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#555">USB Type A</text>
+
+  <!-- Cable body -->
+  <rect x="158" y="316" width="444" height="12" rx="6" fill="#1a1a1a"/>
+  <!-- Cable highlight -->
+  <rect x="158" y="317" width="444" height="3" rx="2" fill="#333" opacity="0.5"/>
+  <!-- Cable sheath bands -->
+  <rect x="168" y="314" width="8" height="16" rx="2" fill="#2a2a2a"/>
+  <rect x="594" y="314" width="8" height="16" rx="2" fill="#2a2a2a"/>
+
+  <!-- USB Type B connector (right) -->
+  <g transform="translate(620, 294)">
+    <!-- Housing -->
+    <rect x="0" y="0" width="72" height="60" rx="4" fill="#c0c0c0" stroke="#888" stroke-width="2"/>
+    <!-- Chamfer top corners -->
+    <polygon points="0,0 20,0 0,20" fill="#f8f8f8"/>
+    <polygon points="72,0 52,0 72,20" fill="#f8f8f8"/>
+    <rect x="0" y="0" width="72" height="60" rx="4" fill="none" stroke="#888" stroke-width="2"/>
+    <!-- Port opening -->
+    <polygon points="6,20 66,20 66,56 6,56" fill="#1a1a1a"/>
+    <polygon points="6,20 20,6 52,6 66,20" fill="#2a2a2a"/>
+    <!-- Inner tab -->
+    <rect x="10" y="26" width="52" height="12" rx="1" fill="#c0c0c0" opacity="0.5"/>
+    <!-- Cable exit left -->
+    <rect x="-18" y="24" width="18" height="12" fill="#1a1a1a"/>
+  </g>
+
+  <!-- USB Type B label -->
+  <text x="660" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#555">USB Type B</text>
+
+  <!-- Product title -->
+  <text x="380" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#222">USB 2.0 Cable — Type A to Type B</text>
+  <text x="380" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#555">Male to Male · Black</text>
+
+  <!-- Length indicator -->
+  <line x1="158" y1="360" x2="628" y2="360" stroke="#aaa" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="380" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#888">0.5m</text>
+
+  <!-- Brand -->
+  <text x="380" y="600" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#aaa">StarTech.com</text>
+</svg>
